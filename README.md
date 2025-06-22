@@ -1,2 +1,0 @@
-# StratoServe
-Airplane Management System

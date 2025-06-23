@@ -54,6 +54,9 @@ A full‑stack web application for airline operations: An intuitive platform des
 - **Backend**: Node.js, Express 
 - **Database**: MongoDB (via mongoose)
 - **Authentication**: JWT
+ - In the database, if the flight's scheduled date is earlier than the current date, the system will automatically update the flight record by adding 28 days to it.
+
+- We have overall included 35 cities for flight operations
 
 ## Getting started
 

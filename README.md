@@ -33,7 +33,7 @@ A full‑stack web application for airline operations: An intuitive platform des
 ### Admin Actions
 
 - **Dashboard**: Admin can view the current active flights and the passengers travelling
-  ![Dashboard](Screenshots/Admindash.png)
+  ![Dashboard](Screenshots/Admindash(1).png)
 
 - **Add Flights/view upcoming flights**:Admin can add or remove flights and view upcoming flights
   ![Addflights](Screenshots/Addflight.png)
